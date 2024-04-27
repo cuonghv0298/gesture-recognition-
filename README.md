@@ -5,7 +5,6 @@ This is our assignment for upgrad's course
 ## Agenda
 * [Problem statement](#problem-statement)
 * [Dataset](#approach-methods)
-* [Environment](#environment)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
