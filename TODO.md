@@ -10,15 +10,15 @@ You need to accomplish the following in the project:
 ![Build Status](<imgs/Evaluation Rubric.PNG>)
 
 # TODO list
-1. Implement Generator (based on [this link](https://github.com/chaitanya-vanapamala/gesture_recognition_iiitb_upgrad/blob/main/Gesture%20Recognition.ipynb)) 
-2. Choose models and finetune. (Both)
-3. Write up (Both)
+1. Implement Generator 
+2. Choose models and finetune. 
+3. Write up 
 
 # Work flow
 1. Generator implementation as one notebook (ipynb1)
 2. From ipynb1 => code experiment 
     * conv3D
     * Time Distributed + other model
-    * CNN + LSTM
+    * CNN + LSTM + other
 3. Fill in writeup file
 4. Write the conclusion
