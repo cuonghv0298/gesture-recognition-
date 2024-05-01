@@ -5,6 +5,7 @@ This is our assignment for upgrad's course
 ## Agenda
 * [Problem statement](#problem-statement)
 * [Dataset](#approach-methods)
+* [Structure](#structure)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -31,6 +32,14 @@ This dataset contains a 'train' and a 'val' folder with two CSV files for the tw
 
 Each row of the CSV file represents one video and contains three main pieces of information - the name of the subfolder containing the 30 images of the video, the name of the gesture and the numeric label (between 0-4) of the video.
 
+## Structure
+* convLSTM2D(final_model).ipynb is our notebook code all experiments. 
+* README.md 
+* requirements.txt 
+* TODO.md : how we work together
+* imgs folder contains the evaluation rubric image
+* models folder contains the json to load the result training
+(You can download all our trained models at this [link](https://drive.google.com/drive/folders/1tZJGqxkOiC6DFbNHU5S6EqA8Kw5dzZW3?usp=drive_link))
 
 ## Acknowledgements
 1. https://realpython.com/introduction-to-python-generators/
