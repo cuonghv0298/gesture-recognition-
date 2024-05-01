@@ -35,7 +35,7 @@ Each row of the CSV file represents one video and contains three main pieces of 
 ## Structure
 * convLSTM2D(final_model).ipynb is our notebook code all experiments. 
 * README.md 
-* writeup.pdf: all experiments
+* write-up.docx: all experiments
 * requirements.txt 
 * TODO.md : how we work together
 * imgs folder contains the evaluation rubric image
